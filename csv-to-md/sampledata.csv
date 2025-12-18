@@ -1,0 +1,11 @@
+﻿Category,Part No.,Description,Qty
+SDWAN Hardware,PAN-ION-9200-HW,"PAN-ION-9200-HW",2
+SDWAN Hardware Maintenance,PAN-SVC-BKLN-ION-9200,"Palo Alto ION 9200 Partner Enabled Premium Support",2
+Accessories,PAN-PWR-CORD-AUS,"Power cord for Australia with IEC-60320 C13 and AS/NZS 4417 cord ends 10A 250V max 6ft",4
+SDWAN License,PAN-SUB-SD-WAN-L,"ION Per Device Branch Subscription for Large Deployments",2
+Accessories,PAN-SFP-PLUS-SR,"Palo Alto SFP+ form factor SR 10Gb optical transceiver short reach 300m",4
+Accessories,PAN-SFP-PLUS-LR,"Palo Alto SFP+ form factor LR 10Gb optical transceiver (OPTIONAL - Dependent on ISP Termination Method)",2
+Accessories,PAN-SFP-LX,"Palo Alto SFP 1GB Single-Mode 10km (1000BASE-LX)(OPTIONAL - Dependent on ISP Termination Method)",2
+Accessories,J9150D,"HPE Aruba Networking 10G SFP+ LC SR 300m OM3 M"MF Transceiver",4
+OAM,OM1208-L-GLB,"OM1208-L 8 serial straight pinout 2x 1GbE x86 1.4GHz 4-core 4GB mem 16GB SSD TPM 2.0 4G LTE-A Pro Global dual power input single universal power adapter Global Power Supply",1
+OAM,OG-FNTS-OM1200-3YR,"3-Year Foundation Support for OM1200 – 8×5 Regional Support with Advanced Replacement",1
